@@ -27,7 +27,7 @@ This project implements and analyzes multiple **search and optimization algorith
 
 ## 🗂️ Project Structure
 
-
+```
 ai-2/
 ├── BnB/
 │   ├── main.py              # Entry point for BnB algorithm
@@ -53,7 +53,7 @@ ai-2/
         ├── plot_utils.py
         └── gif_utils.py
 
-
+```
 ## Setup Instructions
 
 ### Requirements
